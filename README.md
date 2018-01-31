@@ -19,7 +19,7 @@ The package is a SPA for ThinkSNS+
 ## Install
 
 ```shell
-composer require zhiyicx/plus-component-web
+composer require zhiyicx/plus-component-h5
 ```
 
 ##### Dependencies ThinkSNS+ library:
